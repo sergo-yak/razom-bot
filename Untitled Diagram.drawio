@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-01T21:07:50.915Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="C2ma-KhmKDb8CkdILWBa" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-04T20:51:14.692Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="TPw8te3iVkrjIAA1oIw5" version="14.6.9" type="github">
   <diagram id="XfbLYe7IzF915TAYHEYr" name="Page-1">
     <mxGraphModel dx="2221" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -54,7 +54,7 @@
         <mxCell id="KVztMswZeXNyQU55Q4_Z-16" value="Messenger" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="129" y="210" width="101" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="L2a3OnVKFjJWhFTSczmQ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9MWAO0Z5Tc8hNkBbrKQH-2" target="9MWAO0Z5Tc8hNkBbrKQH-3">
+        <mxCell id="L2a3OnVKFjJWhFTSczmQ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9MWAO0Z5Tc8hNkBbrKQH-2" target="9MWAO0Z5Tc8hNkBbrKQH-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9MWAO0Z5Tc8hNkBbrKQH-2" value="City" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -63,16 +63,16 @@
         <mxCell id="9MWAO0Z5Tc8hNkBbrKQH-3" value="Place" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9MWAO0Z5Tc8hNkBbrKQH-4" value="&lt;b&gt;&lt;u&gt;Flows:&lt;/u&gt;&lt;/b&gt;&lt;br&gt;1) Користувач1 додав Пропозицію, Користувач2 погодився на неї&amp;nbsp;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;sketch=0;glass=0;" parent="1" vertex="1">
-          <mxGeometry x="-270" y="535" width="380" height="30" as="geometry" />
+        <mxCell id="9MWAO0Z5Tc8hNkBbrKQH-4" value="&lt;b&gt;&lt;u&gt;Flows:&lt;/u&gt;&lt;/b&gt;&lt;br&gt;1) Користувач1 додав Пропозицію, Користувач2 погодився на неї&amp;nbsp;&lt;br&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left&quot;&gt;Користувач1 отримує сповіщення,&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;Користувач1 бачить інформацію про Користувача2&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;Користувач1 приймає/відхиляє Заяву від Користувача2&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;Користувач2 отримує нотіфікацію про зміну статусу&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;Користувач1 и Користувач2 по бажанню створюють окремий чат&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;sketch=0;glass=0;" parent="1" vertex="1">
+          <mxGeometry x="-290" y="485" width="420" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="L2a3OnVKFjJWhFTSczmQ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="L2a3OnVKFjJWhFTSczmQ-1" target="9MWAO0Z5Tc8hNkBbrKQH-3">
+        <mxCell id="L2a3OnVKFjJWhFTSczmQ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="L2a3OnVKFjJWhFTSczmQ-1" target="9MWAO0Z5Tc8hNkBbrKQH-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="L2a3OnVKFjJWhFTSczmQ-1" value="Subscribe" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="L2a3OnVKFjJWhFTSczmQ-1" value="Subscribe" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="610" y="435" width="120" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="L2a3OnVKFjJWhFTSczmQ-5" value="Applicant" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="L2a3OnVKFjJWhFTSczmQ-5" value="Applicant" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="305" y="290" width="120" height="100" as="geometry" />
         </mxCell>
       </root>
